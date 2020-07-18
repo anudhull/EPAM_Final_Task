@@ -1,5 +1,6 @@
 body {
   font-family: Verdana, sans-serif;
+  justify-content: space-between;
 }
 
 input {
@@ -14,6 +15,7 @@ div.button {
 a {
 	text-decoration: none;
 	color: #e51;
+	font-size: larger;
 }
 
 form { 
